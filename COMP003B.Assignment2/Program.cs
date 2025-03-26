@@ -1,3 +1,9 @@
+/*
+ * Author: Jason Salinas
+ * Course: COMP-003B: ASP.NET Core
+ * Faculty: Jonathan Cruz
+ * Purpose: 2.7 Coding Assignment: MVC
+ */
 namespace COMP003B.Assignment2
 {
     public class Program
